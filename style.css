@@ -1,0 +1,41 @@
+.btn-md{
+    width: 30%;
+    border-radius: 20px;
+}
+.imgleft{
+    width: 100%;
+}
+.thatcolor{
+background-color: rgb(243 244 255);
+}
+.newbtn{
+    background-color: #9C0F68;
+    color: white;
+    font-size: larger;
+    border-radius: 20px;
+}
+.listsbox{
+    background-color: #f4f4f4;
+
+}
+li{
+    padding-top: 10px;
+}
+.jobseek{
+    font-weight: bolder;
+    margin-left: 30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.listsbox1l{
+margin-left: 50px;
+padding-top: 20px;
+}
+.final img{
+    width: 182px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
